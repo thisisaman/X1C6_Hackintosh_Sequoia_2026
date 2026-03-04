@@ -57,6 +57,7 @@
 | Battery Status | ✅ | SMCBatteryManager |
 | Wired Ethernet | ✅ | Intel I219-V via IntelMausiEthernet |
 | ThinkPad Extras | ✅ | Fan control, airplane mode LED via YogaSMC |
+| iServices | ✅ | iMessage, FaceTime, iCloud |
 
 ## Not Tested
 
