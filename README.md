@@ -1,4 +1,4 @@
-# ThinkPad X1 Carbon Gen 6 — macOS Sequoia EFI
+# ThinkPad X1 Carbon Gen 6 — macOS Sequoia [15.7.4] EFI
 ### 🟢 Golden Build · Tested March 2026
 
 > A fully functional OpenCore EFI for the **Lenovo ThinkPad X1 Carbon Gen 6 (2018) [20KG]**, tested on **macOS 15 Sequoia** with verified OTA upgrade support from Sonoma 14.x.
