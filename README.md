@@ -31,7 +31,7 @@
 
 | macOS Version | Status |
 |---|---|
-| macOS 15 Sequoia (15.7.4) | ✅ Tested |
+| macOS 15 Sequoia (15.7.4) | ✅ Verified |
 | OTA Upgrade from Sonoma 14.x | ✅ Verified |
 
 ---
